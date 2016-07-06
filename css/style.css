@@ -1,0 +1,117 @@
+.nav {
+  background-color: white;
+  height: 25px;
+  width: 767px;
+}
+h1 {
+  font-size: 20px;
+  float: left;
+  margin: 0 auto;
+  margin-left: 10px;
+}
+
+ul {
+  float:right;
+  height: 20px;
+  margin: 0 auto;
+}
+li {
+  font-size: 14px;
+  margin: 0 auto;
+  display: inline;
+  text-decoration: none;
+  padding: 5px;
+}
+.topphoto {
+  background-image: url('../images/Raleigh.jpeg');
+  background-size: cover;
+  height: 500px;
+  width: 767px;
+}
+.photocredit {
+  color: white;
+  font-size: 10px;
+  float: right;
+  margin: 10px;
+}
+.toptext {
+  clear: right;
+  height: 150px;
+  width: 767px;
+  margin-top: 20px;
+}
+.leftbox {
+  height: 100px;
+  float: left;
+  margin: 0 auto;
+  transform: translateY(50%);
+  margin-left: 5px;
+  font-size: 24px;
+}
+.rightbox {
+  height: 100px;
+  float: right;
+  font-size: 16px;
+  margin: 0 auto;
+
+}
+.midphotos {
+  clear: both;
+  height: 350px;
+  width: 767px;
+  margin-top: 50px;
+}
+.leftphoto {
+  height: 300px;
+  float: left;
+  margin-left: 20px;
+  margin: 0 auto;
+
+}
+.rightphoto {
+  height: 175px;
+  float: right;
+  margin-right: 20px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.phototext {
+  clear: both;
+  width: 767px;
+}
+.lefttext {
+  float: left;
+}
+.Mystory {
+  height: 250px;
+  width: 50%;
+  float: left;
+  font size: 12px;
+}
+.rightpic {
+  height: 300px;
+  float: right;
+}
+
+.bottompic {
+  height: 300px;
+  width: 767px;
+}
+
+.one {
+  height:300px;
+  width: 33%;
+  float: left;
+}
+
+.two{
+  height: 300px;
+  width: 33%;
+  float: left;
+}
+.three {
+height: 300px;
+width: 34%;
+float: right;
+
+}
